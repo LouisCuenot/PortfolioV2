@@ -32,7 +32,7 @@ const App = () => {
     },1000)
 
     if(window.location.href !== 'https://louiscuenot.com/'){
-      window.location.href = 'https://louiscuenot.com/'
+      //window.location.href = 'https://louiscuenot.com/'
     }
     
    
