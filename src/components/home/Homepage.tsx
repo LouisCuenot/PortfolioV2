@@ -47,6 +47,8 @@ function Homepage(props:{
     
 
    useEffect(()=>{
+
+        console.log('AAAAAAAAAAA')
         
         state.camera.position.set(0,0,5)
         document.documentElement.style.setProperty('--bg','#493423')

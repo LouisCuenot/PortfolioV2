@@ -24,7 +24,7 @@ const App = () => {
 
   useEffect(()=>{
 
-    console.log('AAAAAAAAAAA')
+    
     window.addEventListener('resize',()=>window.location.reload())
 
     setTimeout(()=>{
